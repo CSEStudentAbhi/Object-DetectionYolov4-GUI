@@ -26,7 +26,7 @@ A desktop application for real-time object detection using YOLOv4 with a user-fr
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CSEStudentAbhi/Object-DetectionYolov4-GUI.git
    cd Object-DetectionYolov4-GUI
    ```
 
