@@ -165,19 +165,6 @@ blob = cv2.dnn.blobFromImage(image, 0.00392, (416, 416), (0, 0, 0), True, crop=F
    - Verify all dependencies are installed: `pip install opencv-python pillow numpy`
    - Ensure you're using Python 3.7 or higher
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on the project repository.
-
----
 
 ## Created by
 Abhishek Ambi
@@ -185,4 +172,3 @@ Sai Koushik YR
 Shree Sagar
 Siddaraju T
 
-**Note**: This application requires the YOLOv4 weights file (`yolov4.weights`) which is not included in this repository due to size constraints. Please download it separately from the official YOLO repository or other reliable sources.
